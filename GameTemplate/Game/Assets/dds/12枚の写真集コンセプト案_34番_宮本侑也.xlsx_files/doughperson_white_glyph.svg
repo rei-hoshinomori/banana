@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0,0,2048,2048">
+  <defs xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .PresenceIconSVG { fill: #FFFFFF; }
+      @media screen and (-ms-high-contrast: active) { .PresenceIconSVG { fill: WindowText; }}
+    </style>
+  </defs>
+  <path class='PresenceIconSVG' d='M 1220 1069 q 68 29 125 76 q 57 47 98 108 q 41 60 64 132 q 23 72 23 151 h -102 q 0 -84 -32 -157 q -32 -74 -86 -128 q -55 -55 -128 -87 q -74 -32 -158 -32 q -84 0 -157 32 q -74 32 -128 87 q -55 54 -87 128 q -32 73 -32 157 h -102 q 0 -79 23 -151 q 23 -72 64 -132 q 41 -61 98 -108 q 57 -47 125 -76 q -63 -46 -101 -117 q -39 -71 -39 -156 q 0 -69 27 -130 q 26 -61 72 -106 q 45 -46 107 -72 q 61 -27 130 -27 q 69 0 131 27 q 61 26 107 72 q 45 45 72 106 q 26 61 26 130 q 0 85 -38 156 q -39 71 -102 117 m -429 -273 q 0 48 19 91 q 18 43 50 75 q 31 31 74 50 q 42 18 90 18 q 48 0 91 -18 q 42 -19 74 -50 q 31 -32 50 -75 q 18 -43 18 -91 q 0 -48 -18 -90 q -19 -43 -50 -74 q -32 -32 -74 -50 q -43 -19 -91 -19 q -48 0 -90 19 q -43 18 -74 50 q -32 31 -50 74 q -19 42 -19 90 z' />
+</svg>
